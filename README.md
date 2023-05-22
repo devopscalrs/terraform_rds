@@ -1,10 +1,9 @@
-# terraform rds, route53, lb, sg
+# terraform project
 
 
 Ejecicio Realizado por Carlos Peraza 
 www.linkedin.com/in/carlos-luis-peraza-luna-844728bb
 
-##################################
 
 # De Acuerdo con el ejercicio planteado se Automatizo mediante Terraform la creacion de estos componentes
 
@@ -27,3 +26,7 @@ para asociar a las instancia, no fue necesario la configuracion de NAT, Intert G
  Ansible : Tampoco fue necesario ni posible por falta de tiempo configurar el host mediante ansible para instalar  lo necesario para el despliegue de wordpress en la instancia y sus dependencias
 
  Terragrunt:  no fue necesario
+
+
+# Nota
+Por favor considerar enviar feedback para continua mejora
