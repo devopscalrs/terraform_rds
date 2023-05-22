@@ -1,4 +1,4 @@
-terraform rds, route53, lb, sg
+# terraform rds, route53, lb, sg
 
 
 Ejecicio Realizado por Carlos Peraza 
@@ -22,8 +22,8 @@ para asociar a las instancia, no fue necesario la configuracion de NAT, Intert G
 
 
 
-# Packer : No fue posible configurar packer para la gestion de la AMI
+ Packer : No fue posible configurar packer para la gestion de la AMI
 
-# Ansible : Tampoco fue necesario ni posible por falta de tiempo configurar el host mediante ansible para instalar  lo necesario para el despliegue de wordpress en la instancia y sus dependencias
+ Ansible : Tampoco fue necesario ni posible por falta de tiempo configurar el host mediante ansible para instalar  lo necesario para el despliegue de wordpress en la instancia y sus dependencias
 
-# Terragrunt:  no fue necesario
+ Terragrunt:  no fue necesario
