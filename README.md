@@ -28,5 +28,3 @@ para asociar a las instancia, no fue necesario la configuracion de NAT, Intert G
  Terragrunt:  no fue necesario
 
 
-# Nota
-Por favor considerar enviar feedback para continua mejora
